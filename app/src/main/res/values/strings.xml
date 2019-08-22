@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NotesApp</string>
+    <string name="no_notes_yet_tap_the_green_button_below">No Notes Yet!! Tap the green button below...</string>
 </resources>
